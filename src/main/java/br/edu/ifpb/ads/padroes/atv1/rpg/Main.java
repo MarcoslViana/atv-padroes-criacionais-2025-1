@@ -1,6 +1,5 @@
-package br.edu.ifpb.ads.padroes.atv1.rpg.main;
+package br.edu.ifpb.ads.padroes.atv1.rpg;
 
-import br.edu.ifpb.ads.padroes.atv1.rpg.personagem.factory.*;
 import br.edu.ifpb.ads.padroes.atv1.rpg.personagem.Personagem;
 import br.edu.ifpb.ads.padroes.atv1.rpg.personagem.factory.CriadorArqueiro;
 import br.edu.ifpb.ads.padroes.atv1.rpg.personagem.factory.CriadorGuerreiro;
