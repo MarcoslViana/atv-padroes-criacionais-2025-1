@@ -1,4 +1,4 @@
-package br.edu.ifpb.ads.padroes.atv1.rpg.atv2.Mock;
+package br.edu.ifpb.ads.padroes.atv2.Mock;
 
 public class PayPalAPI {
 

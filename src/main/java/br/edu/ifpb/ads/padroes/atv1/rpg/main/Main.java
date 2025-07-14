@@ -1,7 +1,11 @@
 package br.edu.ifpb.ads.padroes.atv1.rpg.main;
 
 import br.edu.ifpb.ads.padroes.atv1.rpg.personagem.factory.*;
-import br.edu.ifpb.ads.padroes.atv1.rpg.personagem.*;
+import br.edu.ifpb.ads.padroes.atv1.rpg.personagem.Personagem;
+import br.edu.ifpb.ads.padroes.atv1.rpg.personagem.factory.CriadorArqueiro;
+import br.edu.ifpb.ads.padroes.atv1.rpg.personagem.factory.CriadorGuerreiro;
+import br.edu.ifpb.ads.padroes.atv1.rpg.personagem.factory.CriadorMago;
+import br.edu.ifpb.ads.padroes.atv1.rpg.personagem.factory.CriadorPersonagem;
 
 public class Main {
     public static void main(String[] args) {

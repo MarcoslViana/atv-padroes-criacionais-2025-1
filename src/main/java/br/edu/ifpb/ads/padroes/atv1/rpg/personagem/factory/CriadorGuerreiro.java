@@ -2,7 +2,10 @@ package br.edu.ifpb.ads.padroes.atv1.rpg.personagem.factory;
 
 import br.edu.ifpb.ads.padroes.atv1.rpg.equipamento.factory.*;
 import br.edu.ifpb.ads.padroes.atv1.rpg.personagem.builder.*;
-import br.edu.ifpb.ads.padroes.atv1.rpg.personagem.*;
+import br.edu.ifpb.ads.padroes.atv1.rpg.equipamento.factory.FabricaEquipamento;
+import br.edu.ifpb.ads.padroes.atv1.rpg.equipamento.factory.FabricaEquipamentoGuerreiro;
+import br.edu.ifpb.ads.padroes.atv1.rpg.personagem.Personagem;
+import br.edu.ifpb.ads.padroes.atv1.rpg.personagem.builder.PersonagemBuilder;
 
 public class CriadorGuerreiro extends CriadorPersonagem {
 

@@ -1,9 +1,9 @@
-package br.edu.ifpb.ads.padroes.atv1.rpg.atv2.Config;
+package br.edu.ifpb.ads.padroes.atv2.Config;
 
-import br.edu.ifpb.ads.padroes.atv1.rpg.atv2.Gateway.PagamentoGateway;
-import br.edu.ifpb.ads.padroes.atv1.rpg.atv2.Gateway.impl.PagSeguroGateway;
-import br.edu.ifpb.ads.padroes.atv1.rpg.atv2.Gateway.impl.PayPalGateway;
-import br.edu.ifpb.ads.padroes.atv1.rpg.atv2.Gateway.impl.StripeGateway;
+import br.edu.ifpb.ads.padroes.atv2.Gateway.PagamentoGateway;
+import br.edu.ifpb.ads.padroes.atv2.Gateway.impl.PagSeguroGateway;
+import br.edu.ifpb.ads.padroes.atv2.Gateway.impl.PayPalGateway;
+import br.edu.ifpb.ads.padroes.atv2.Gateway.impl.StripeGateway;
 import com.google.inject.AbstractModule;
 public class GatewayModule extends AbstractModule {
 

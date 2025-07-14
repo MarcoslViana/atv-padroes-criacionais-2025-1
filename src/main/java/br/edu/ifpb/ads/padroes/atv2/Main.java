@@ -1,7 +1,7 @@
-package br.edu.ifpb.ads.padroes.atv1.rpg.atv2;
+package br.edu.ifpb.ads.padroes.atv2;
 
-import br.edu.ifpb.ads.padroes.atv1.rpg.atv2.Config.GatewayModule;
-import br.edu.ifpb.ads.padroes.atv1.rpg.atv2.Service.PagamentoService;
+import br.edu.ifpb.ads.padroes.atv2.Config.GatewayModule;
+import br.edu.ifpb.ads.padroes.atv2.Service.PagamentoService;
 import com.google.inject.Guice;
 import com.google.inject.Injector;
 

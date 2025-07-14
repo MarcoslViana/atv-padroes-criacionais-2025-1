@@ -1,7 +1,7 @@
-package br.edu.ifpb.ads.padroes.atv1.rpg.atv2.Gateway.impl;
+package br.edu.ifpb.ads.padroes.atv2.Gateway.impl;
 
-import br.edu.ifpb.ads.padroes.atv1.rpg.atv2.Gateway.PagamentoGateway;
-import br.edu.ifpb.ads.padroes.atv1.rpg.atv2.Mock.PagSeguroAPI;
+import br.edu.ifpb.ads.padroes.atv2.Gateway.PagamentoGateway;
+import br.edu.ifpb.ads.padroes.atv2.Mock.PagSeguroAPI;
 
 public class PagSeguroGateway implements PagamentoGateway {
 

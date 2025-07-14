@@ -1,6 +1,6 @@
-package br.edu.ifpb.ads.padroes.atv1.rpg.atv2.Service;
+package br.edu.ifpb.ads.padroes.atv2.Service;
 
-import br.edu.ifpb.ads.padroes.atv1.rpg.atv2.Gateway.PagamentoGateway;
+import br.edu.ifpb.ads.padroes.atv2.Gateway.PagamentoGateway;
 import jakarta.inject.Inject;
 
 public class PagamentoService {
