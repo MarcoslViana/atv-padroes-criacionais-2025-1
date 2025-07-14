@@ -1,7 +1,7 @@
-package br.edu.ifpb.ads.padroes.atv1.rpg.atv1.main;
+package br.edu.ifpb.ads.padroes.atv1.rpg.main;
 
-import br.edu.ifpb.ads.padroes.atv1.rpg.atv1.personagem.factory.*;
-import br.edu.ifpb.ads.padroes.atv1.rpg.atv1.personagem.*;
+import br.edu.ifpb.ads.padroes.atv1.rpg.personagem.factory.*;
+import br.edu.ifpb.ads.padroes.atv1.rpg.personagem.*;
 
 public class Main {
     public static void main(String[] args) {

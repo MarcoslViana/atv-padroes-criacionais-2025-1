@@ -1,4 +1,4 @@
-package br.edu.ifpb.ads.padroes.atv1.rpg.atv1.equipamento;
+package br.edu.ifpb.ads.padroes.atv1.rpg.equipamento;
 
 public class Arma {
 

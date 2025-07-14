@@ -1,8 +1,8 @@
-package br.edu.ifpb.ads.padroes.atv1.rpg.atv1.personagem.factory;
+package br.edu.ifpb.ads.padroes.atv1.rpg.personagem.factory;
 
-import br.edu.ifpb.ads.padroes.atv1.rpg.atv1.equipamento.factory.*;
-import br.edu.ifpb.ads.padroes.atv1.rpg.atv1.personagem.builder.*;
-import br.edu.ifpb.ads.padroes.atv1.rpg.atv1.personagem.*;
+import br.edu.ifpb.ads.padroes.atv1.rpg.equipamento.factory.*;
+import br.edu.ifpb.ads.padroes.atv1.rpg.personagem.builder.*;
+import br.edu.ifpb.ads.padroes.atv1.rpg.personagem.*;
 
 public class CriadorArqueiro extends CriadorPersonagem {
 
